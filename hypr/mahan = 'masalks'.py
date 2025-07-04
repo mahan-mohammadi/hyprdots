@@ -1,0 +1,3 @@
+mahan = 'masalks'
+
+print('msmas;')
